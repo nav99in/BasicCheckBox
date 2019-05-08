@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 if (cb5.isChecked()) {
                     Toast.makeText(getApplicationContext(), "Unity 3D", Toast.LENGTH_LONG).show();
                 }
-
                 break;
 
         }
