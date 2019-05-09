@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 if (cb4.isChecked()) {
                     Toast.makeText(getApplicationContext(), "Python", Toast.LENGTH_LONG).show();
                 }
-
                 break;
             case R.id.cb5 :
 
